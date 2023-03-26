@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=World
+comment1.params=tileGrid
+comment1.target=World(TileType[][])
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=java.util.LinkedList\ getEntities()
+comment4.params=
+comment4.target=TileType[][]\ getTileGrid()
+comment5.params=entityType\ position
+comment5.target=void\ spawn(EntityType,\ Point)
+numComments=6

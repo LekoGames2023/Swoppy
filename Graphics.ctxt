@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Graphics
+comment1.params=
+comment1.target=Graphics()
+comment2.params=
+comment2.target=void\ showFrame()
+comment3.params=
+comment3.target=void\ start()
+comment4.params=position
+comment4.target=Point\ convertPosition(Point)
+comment5.params=
+comment5.target=int\ getScaleFactor()
+comment6.params=
+comment6.target=TextureSet\ getTextureSet()
+comment7.params=tileGrid
+comment7.target=java.awt.image.BufferedImage\ bakeTileGrid(TileType[][])
+comment8.params=world
+comment8.target=void\ draw(World)
+numComments=9

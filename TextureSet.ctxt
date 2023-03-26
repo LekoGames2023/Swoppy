@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextureSet
+comment1.params=scaleFactor
+comment1.target=TextureSet(int)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=textureId
+comment3.target=void\ loadTexture(java.lang.String)
+comment4.params=textureId
+comment4.target=java.awt.image.BufferedImage\ getTexture(java.lang.String)
+comment5.params=texture\ factor
+comment5.target=java.awt.image.BufferedImage\ scaleTexture(java.awt.image.BufferedImage,\ int)
+numComments=6

@@ -1,0 +1,5 @@
+dimensions 16 2
+tile.air aa
+tile.prototype ab
+ab aa aa aa aa aa aa ab ab aa aa aa aa aa aa ab
+ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Texture
+comment1.params=height\ width\ xOffset\ yOffset
+comment1.target=Texture(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getBufferedImage()
+comment3.params=
+comment3.target=double\ getXOffset()
+comment4.params=
+comment4.target=double\ getYOffset()
+comment5.params=
+comment5.target=Texture.Painter\ getPainter()
+numComments=6

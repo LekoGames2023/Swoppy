@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=position\ hitbox\ texture
+comment1.target=Entity(Point,\ Rectangle,\ Texture)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=Point\ getPosition()
+comment5.params=
+comment5.target=Texture\ getTexture()
+comment6.params=
+comment6.target=Rectangle\ getHitbox()
+numComments=7

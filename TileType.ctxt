@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TileType
+comment1.params=textureId
+comment1.target=TileType(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTextureId()
+numComments=3
